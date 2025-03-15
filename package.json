@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "team-project-js-113",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-team07-project-02/",
+    "build": "vite build --base=/team-project-js-113/",
     "preview": "vite preview"
   },
   "devDependencies": {
